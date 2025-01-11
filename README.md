@@ -3,10 +3,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installationn](https://github.com/mateoa7/Algorithms-Practice)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mateoa7/post-install-config)
-  - [osTicket: Post-Installation Configuration](https://github.com/mateoa7/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/mateoa7/-post-install-config) 
+  - [osTicket: Ticket Lifecycle Example](https://github.com/mateoa7/ticket-lifecycle) 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mateoa7/configure-ad) 
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mateoa7/configure-ad) 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mateoa7/azure-network-protocols)
 <h2> 🤳 Connect with me:</h2>
 
